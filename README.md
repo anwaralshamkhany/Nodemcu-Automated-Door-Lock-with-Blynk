@@ -4,3 +4,8 @@ This is an Arduino compatible board that connects to your local wifi which can t
 
 # Hardware Setup
 Will need to 3D print 2 files to attach the servo to lightswitch for one piece and then the other acts as a mechanism to turn off the lights when the servo rotates. you will need 3 screws that come with the servo for mounting and then the 2 orginal screws for you light switch.
+
+List of parts you need:
+The 2 STL files to 3d print at a density of 15% in PLA the rest of the settings are standard
+Servo Motor: https://www.amazon.ca/s?k=servo+motor&ref=nb_sb_noss_2
+Nodemcu: https://www.amazon.ca/KeeYees-Internet-Development-Wireless-Compatible/dp/B07PR9T5R5/ref=sr_1_8?dchild=1&keywords=nodemcu&qid=1630611583&sr=8-8
